@@ -25,3 +25,5 @@ planet.csv: dataset used for model building using PCA and K-means.
 
 
 finding_baby_yoda.ipynb: the jupyter notebook containing code.
+
+![alt text](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/12/Anakin-in-Revenge-of-the-Sith-and-Baby-Yoda-in-The-Mandalorian.jpg "Dark side is calling Baby Yoda")
