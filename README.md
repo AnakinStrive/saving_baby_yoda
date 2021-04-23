@@ -4,7 +4,7 @@ The council has given me the task of searching the galaxy to find this baby Yoda
 We build a simple prediction model using the galaxies.csv and planet.csv data set for predicting a ship's crew size. 
 This project is organized as follows: 
 
-** Data preprocessing and variable selection **;
+**Data preprocessing and variable selection**;
 
 
 *  Dataset 
@@ -12,7 +12,7 @@ This project is organized as follows:
 *  Plot the clusters
 *  Find the coordinates of the planet where it is hidden
 
-** Find where baby yoda is in the secret planet using the planet.csv **
+**Find where baby yoda is in the secret planet using the planet.csv**
 * Use PCA (top 2 components) to project the Jedi Force
 * Use KMeans
 * 5D Dataset
