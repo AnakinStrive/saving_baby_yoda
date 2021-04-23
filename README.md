@@ -1,5 +1,5 @@
 # Saving Baby Yoda
-The council has given me the task of searching the galaxy to find this baby Yoda. I will do my duty but this is the job of a padawan not a Jedi Master like me.
+The Sith has given us the task of searching the galaxy to find this baby Yoda. We will do our duty as a loyal soldiers of the Sith.
 
 We build a simple prediction model using the galaxies.csv and planet.csv data set for predicting a ship's crew size. 
 This project is organized as follows: 
